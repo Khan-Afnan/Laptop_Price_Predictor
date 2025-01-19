@@ -1,0 +1,6 @@
+numpy==1.24.3
+pandas==2.1.4
+pillow==10.0.0
+scikit-learn==1.6.0
+streamlit==1.37.1
+pickleshare==0.7.5
