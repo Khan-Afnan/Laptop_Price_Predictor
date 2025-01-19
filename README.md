@@ -50,7 +50,10 @@ streamlit run app.py
 
 ### **File Structure**
 -**app.py-**: The main Streamlit application file.
+
 -**laptop_price_model.pkl-**: Pre-trained machine learning model.
+
 -**laptop_data-**.csv: Cleaned dataset used to train the model.
+
 -**README.md-**: Project documentation.
 
